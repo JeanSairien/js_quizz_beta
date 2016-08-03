@@ -1,0 +1,44 @@
+- ajouter le nombres question necessaires(7) 20 minutes
+
+
+
+- automatiser l'importation des question dans le html 30 minutes
+
+
+
+- checker automatiquement les reponses vrai faux 5-10 minutes --> fait
+
+
+
+- autotmatiser changement de questions --- 20minutes
+
+
+--total theorique 1h- 1h20 
+
+
+premiere etape : choix format : tableau ou variable -----> tableau 
+
+ 
+
+deuxieme etape : crée exemple type de tableau ---> fait
+
+
+troisieme etape : afficher le premier tableau ----> fait
+
+quatrieme etape : check auto ---> fait 
+
+
+cinquieme etape :  next  auto :--->
+	crée un object comportant toute nos fonctions neccessaires
+		
+	crée un tabl de 1 a 10 
+	faire une for pour parcourir le tabl et l'incrementé 
+	l'incrementation doit se faire sur le nombre des questions
+		
+
+
+
+	
+
+
+

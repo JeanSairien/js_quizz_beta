@@ -1,0 +1,19 @@
+div.col-md-3 {
+
+	border: 1px inset black;
+	background-color: whitesmoke;
+	color: black;
+}
+
+
+#question1{
+
+	display: block;
+
+}
+
+.afficheq{
+
+	display: none;
+
+}
